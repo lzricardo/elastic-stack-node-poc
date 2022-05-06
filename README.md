@@ -1,0 +1,1 @@
+# elastic-stack-node-poc
